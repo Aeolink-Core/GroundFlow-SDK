@@ -56,7 +56,7 @@ Here's a simple example of how a GroundFlow application could be structured in C
    ./app-name
    ```
 Documentation
-For detailed documentation, see the docs.groundflow.org . It includes comprehensive guides and API references.
+For detailed documentation, see the https://docs.groundflow.org . It includes comprehensive guides and API references.
 
 Support
 For support, please open an issue on this GitHub repository.

@@ -24,7 +24,7 @@ To install the GroundFlow SDK, follow these steps:
    ```bash
    cd GroundFlow-SDK
 
-### Implementing Your Application
+## Implementing Your Application
 Here's a simple example of how a GroundFlow application could be structured in C:
 
   ```c

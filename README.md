@@ -51,9 +51,9 @@ Here's a simple example of how a GroundFlow application could be structured in C
   gcc main.c -o my_app -lgroundflow -I/path/to/GroundFlow-SDK/include
   ```
 4. To install application on your computer, you might run:
-   ```bash
-   ./app-name
-   ```
+```bash
+./app-name
+```
 Documentation
 For detailed documentation, see the docs directory within this repository. It includes comprehensive guides and API references.
 
